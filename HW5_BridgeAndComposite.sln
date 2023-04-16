@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW5_BridgeAndComposite", "HW5_BridgeAndComposite\HW5_BridgeAndComposite.vcxproj", "{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Debug|x64.ActiveCfg = Debug|x64
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Debug|x64.Build.0 = Debug|x64
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Debug|x86.Build.0 = Debug|Win32
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Release|x64.ActiveCfg = Release|x64
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Release|x64.Build.0 = Release|x64
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Release|x86.ActiveCfg = Release|Win32
+		{4CF4546C-6EF7-4855-A267-BF8F4A8382AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4838F303-ECF3-43EC-A780-16623B478B38}
+	EndGlobalSection
+EndGlobal
